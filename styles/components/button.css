@@ -13,6 +13,8 @@
     font-weight: 700;
     line-height: 19px;
     letter-spacing: 0px;
-    
+}
 
+.button:hover {
+    background-color:#2971e6;
 }
