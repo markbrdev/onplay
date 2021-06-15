@@ -1,0 +1,22 @@
+.menu-category {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left:22px;
+    margin-right: 22px;
+}
+
+.menu-category__icons {
+    
+}
+
+.menu-category__text {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: center;
+    color:#737373;
+}
+
