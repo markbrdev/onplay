@@ -1,0 +1,28 @@
+.menu-bar-initial {
+    width: 90%;
+    margin: 0 auto;  
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.menu-bar-initial__icons {
+    width: 40%;
+    display: flex;
+    
+    align-items: center;
+   
+}
+
+.menu-bar-initial__icons img{
+    margin-right: 16px;
+   
+}
+
+.menu-bar-initial__icons p {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+}
