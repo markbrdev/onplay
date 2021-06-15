@@ -1,5 +1,6 @@
 .container-text {
     margin-left: 18px;
+    margin-right: 11px;
 }
 
 .container-text_paragraph-1 strong{
@@ -37,6 +38,7 @@
     line-height: 20px;
     letter-spacing: 0px;
     text-align: left;
+    margin-bottom: 35px;
     
 
 }
